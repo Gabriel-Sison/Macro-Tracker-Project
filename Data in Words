@@ -1,0 +1,8 @@
+# Interpreting Data Base
+
+import numpy as np
+name = np.loadtxt('data/randotext.txt', dtype='str', delimiter=',')
+
+for i in range(len(name)):
+    print(f'Per {name[i][1]} {name[i][2]}, {name[i][0]} has', end=' ')
+    print(f'{name[i][3]} Protein, {name[i][4]} Fats, {name[i][5]} Carbs')
