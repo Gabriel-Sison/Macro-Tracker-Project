@@ -1,0 +1,41 @@
+# Food Name,Portion Amount,Portion Amount,Protein,Fat,Carbs
+# Creating Data for txt file
+data = []
+
+print("Enter Foods:")
+food_name = ' '
+while food_name!='':
+    food_name = ''
+    food_name = input()
+    data.append(food_name.strip())
+data.pop(-1)
+num_food = len(data)
+
+print("Enter Food Portion Type:")
+for i in range(num_food):
+    portion_name = input()
+    data.append(portion_name.strip())
+
+print("Enter Food Portion Amount:")
+for i in range(num_food):
+    portion_amount = input()
+    data.append(portion_amount.strip())
+
+print("Enter Protein:")
+for i in range(num_food):
+    protein = input()
+    data.append(protein.strip())
+
+print("Enter Fat:")
+for i in range(num_food):
+    fat = input()
+    data.append(fat.strip())
+
+print("Enter Carbs:")
+for i in range(num_food):
+    carbs = input()
+    data.append(carbs.strip())
+
+# name {data[i]} type{data[i+num_food]} portion{data[i+num_food*2]} p{data[i+num_food*3]} f{data[i+num_food*4]} c{data[i+num_food*5]}
+for i in range(num_food):
+    print(f'{data[i]},{data[i+num_food*2]},{data[i+num_food]},{data[i+num_food*3]},{data[i+num_food*4]},{data[i+num_food*5]}')
