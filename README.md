@@ -9,7 +9,7 @@ can be the exact same weight, but if one is carrying mostly fat, and the other h
 different from each other. Bodybuilding made me realize that I should prioritize my nutrition and exercise routine over the number I see on the scale.
 
 I want to help make it easier for people to stick to their fitness goals. Tracking your calories, macronutrients, workouts, and weight can be very 
-overwhelming, especially for beginners. Linked above is a tool I've been using since February 2022 that has helped me do all of the above. I've lost 
+overwhelming, especially for beginners. Linked below is a tool I've been using since February 2022 that has helped me do all of the above. I've lost 
 25 pounds so far, have been increasing the weights I've been lifting at the gym, and have been eating whatever food I've wanted as long as it fits into 
 my macros.
 
