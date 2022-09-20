@@ -13,7 +13,7 @@ overwhelming, especially for beginners. Linked below is a tool I've been using s
 25 pounds so far, have been increasing the weights I've been lifting at the gym, and have been eating whatever food I've wanted as long as it fits into 
 my macros.
 
-Your fitness goals shouldn't feel out of reach. Feel free to copy the link above and use it for your personal goals!
+Your fitness goals shouldn't feel out of reach. Feel free to copy the link below and use it for your personal goals!
 
 Here is the google spreadsheet I designed that this is inspired by:
 https://docs.google.com/spreadsheets/d/18FpPMr-gDmvYhX_Kt0d4sC8HJ-eASM-s6j-VJePMt8I/edit?usp=sharing
